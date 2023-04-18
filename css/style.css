@@ -89,7 +89,7 @@ scale: none;
 .image1 img {
     position: fixed;
     top: 370px;
-    height: 75px;
+    height: 50px;
     left: 37%;
 }
 .image4 img {
@@ -102,6 +102,12 @@ scale: none;
     position: fixed;
     top: 370px;
     height: 60px;
+    left: 37%;
+}
+.image6 img {
+    position: fixed;
+    top: 370px;
+    height: 45px;
     left: 37%;
 }
 
