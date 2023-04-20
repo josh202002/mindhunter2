@@ -37,12 +37,23 @@ scale: none;
 }
 .para{
     margin-bottom: 30px;
-    margin-right:90px;
-    margin-left:90px;
+    margin-right:30px;
+    margin-left:30px;
+    padding: 0%;
     text-align: justify;
     font-family: 'Jost', sans-serif;
     color: #f1ffb5a1;
-    margin-top:-3%;
+    margin-top:-4%;
+}
+.para8{
+    margin-bottom: 30px;
+    margin-right:30px;
+    margin-left:30px;
+    padding: 0%;
+    text-align: justify;
+    font-family: 'Jost', sans-serif;
+    color: #f1ffb5a1;
+    margin: top 0;
 }
 .aboutt para{
     text-align: center;
@@ -52,7 +63,7 @@ scale: none;
 .box{
     width:43%;
     height:40px;
-    margin-top:25px;
+    margin-top:12px;
     font-size: 48px;
     border-radius: 30px;
     margin-left:25%;
@@ -62,8 +73,8 @@ scale: none;
     position: relative;
     float:right;
     color:white;
-    width:60px;
-    top:-60px;
+    width:45px;
+    top:-50px;
     border: 2px solid #ffe4bf;
     border-radius:5px;
     left:-338px;
@@ -76,6 +87,7 @@ scale: none;
 #demo{
     color:white;
     position:relative;
+    margin-top: -2px;
     left:43%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -88,42 +100,105 @@ scale: none;
 }
 .image1 img {
     position: fixed;
-    top: 370px;
+    top: 456px;
     height: 50px;
-    left: 37%;
+    left: 34%;
+}
+.image12 img {
+    position: fixed;
+    top: 430px;
+    height: 50px;
+    left: 34%;
 }
 .image4 img {
     position: fixed;
-    top: 370px;
+    top: 379px;
     height: 100px;
-    left: 37%;
+    left: 35%;
 }
 .image5 img {
     position: fixed;
-    top: 370px;
+    top: 388px;
     height: 60px;
-    left: 37%;
+    left: 35%;
 }
 .image6 img {
     position: fixed;
-    top: 370px;
+    top: 400px;
     height: 45px;
-    left: 37%;
+    left: 35%;
+}
+.image16 img {
+    position: fixed;
+    top: 430px;
+    height: 50px;
+    left: 34%;
 }
 
 .about h6 {
     font-size: 12px;
     font-family: Jost;
     color: white;
-    margin-left: -195px;
+    margin-left: -274px;
     letter-spacing: .2mm;
 }
 .findings {
     width: 26%;
     text-align: justify;
     position: fixed;
-    left: 495px;
-    top: 297px;
+    left: 450px;
+    top: 350px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings2 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 300px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+
+.findings3 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 278px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings4 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 278px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings5 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 278px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings6 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 298px;
     font-family: Jost;
     font-size: 13px;
     color:#ffe4bf8a;
