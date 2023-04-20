@@ -22,6 +22,15 @@ scale: none;
     margin-left:25%
 
 }
+.about11{
+    background-color: #be1010e0;
+    border-radius: 30px;
+    padding-bottom:170px;
+    padding-top:10px;
+    width:50%;
+    margin-left:25%
+
+}
 .aboutt h3{
     font-size: 30px;
     font-family: Jost;
@@ -88,7 +97,7 @@ scale: none;
     color:white;
     position:relative;
     margin-top: -2px;
-    left:43%;
+    left:42%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -96,43 +105,43 @@ scale: none;
     position: fixed;
     top: 370px;
     height: 137px;
-    left: 37%;
+    left: 490px;
 }
 .image1 img {
     position: fixed;
     top: 456px;
     height: 50px;
-    left: 34%;
+    left: 470px;
 }
 .image12 img {
     position: fixed;
     top: 430px;
     height: 50px;
-    left: 34%;
+    left: 470px;
 }
 .image4 img {
     position: fixed;
     top: 379px;
     height: 100px;
-    left: 35%;
+    left: 480px;
 }
 .image5 img {
     position: fixed;
     top: 388px;
     height: 60px;
-    left: 35%;
+    left: 480px;
 }
 .image6 img {
     position: fixed;
     top: 400px;
     height: 45px;
-    left: 35%;
+    left: 480px;
 }
 .image16 img {
     position: fixed;
     top: 430px;
     height: 50px;
-    left: 34%;
+    left: 470px;
 }
 
 .about h6 {
@@ -142,18 +151,25 @@ scale: none;
     margin-left: -274px;
     letter-spacing: .2mm;
 }
+.about11 h6 {
+    font-size: 12px;
+    font-family: Jost;
+    color: white;
+    margin-left: -274px;
+    letter-spacing: .2mm;
+}
 .findings {
-    width: 26%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
-    top: 350px;
+    top: 340px;
     font-family: Jost;
     font-size: 13px;
     color:#ffe4bf8a;
 }
 .findings2 {
-    width: 26%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -164,7 +180,7 @@ scale: none;
 }
 
 .findings3 {
-    width: 26%;
+    width:400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -174,7 +190,7 @@ scale: none;
     color:#ffe4bf8a;
 }
 .findings4 {
-    width: 26%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -184,7 +200,7 @@ scale: none;
     color:#ffe4bf8a;
 }
 .findings5 {
-    width: 26%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -194,7 +210,7 @@ scale: none;
     color:#ffe4bf8a;
 }
 .findings6 {
-    width: 26%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
