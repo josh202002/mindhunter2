@@ -96,7 +96,7 @@ scale: none;
 #demo{
     color:white;
     position:relative;
-    margin-top: -2px;
+    margin-top: 0px;
     left:42%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
