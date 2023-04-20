@@ -1,7 +1,7 @@
 function pg1(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="injustice is every where"){
         window.location.assign("acideg2.html")
     }
     else {
